@@ -10,10 +10,15 @@
 
 ### Glad to see you here!  
 ✨ I want to build strong relationships with my clients.
+
 ✨ I believe that a good working relationship is built on mutual trust and respect.
+
 ✨ I value open communication and strive to keep you updated on progress every step of the way.
+
 ✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
 ✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
   
