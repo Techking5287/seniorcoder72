@@ -9,18 +9,13 @@
 
 
 ### Glad to see you here!  
-✨ Let me share a bit about my values and work ethic:
-Building robust and long-lasting relationships with my clients is at the heart of my approach. I firmly believe in the pillars of mutual trust, respect, and open communication throughout our collaboration. As a true team player, I truly value the power of collaboration and take immense pleasure in working together towards our common goals. Additionally, my keenness for continuous learning empowers me to stay up-to-date with the latest technologies and consistently expand my skillset.
+✨ I want to build strong relationships with my clients.
+✨ I believe that a good working relationship is built on mutual trust and respect.
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
-✨ Here's a glimpse of my expertise:
-I specialize in JavaScript frameworks such as TypeScript, Next.js, React.js, and Vue.js, which I proficiently utilize to craft outstanding web experiences. When it comes to styling, I have a wealth of experience in Tailwind CSS, Bootstrap, and Material-UI, ensuring visually stunning and user-friendly interfaces. In the realm of databases, I am well-versed in managing MongoDB, MySQL, PostgreSQL, and MSSQL. Moreover, I possess in-depth knowledge of web hosting, including AWS services like EC2, S3, and Lambda, as well as expertise in cPanel and GoDaddy. My skill set also extends to integrating payment gateways such as Stripe and PayPal, and leveraging email automation platforms like Gmail and Mailchimp.
-
-✨ Previous projects that showcase my capabilities:
-In my most recent role as a full-stack developer at TrademarkToday, I successfully spearheaded the development of an entire website using cutting-edge technologies like Next.js, TypeScript, and Tailwind CSS. I seamlessly integrated features such as live chat and robust payment systems using Stripe, thereby enhancing the overall functionality and user experience of the site. Exploiting the power of REST APIs, I forged seamless collaborations with external platforms, facilitating smooth data exchange and advanced system integration. Additionally, I implemented comprehensive email verification and integration mechanisms to streamline communication and maximize user engagement.
-
-✨ What you can expect by collaborating with me:
-I would be honored to delve deeper into your project details via chat, allowing us to align our goals and expectations even more effectively. With my extensive expertise and experience, I am confident in delivering nothing short of excellence in a time-efficient manner, adhering to project timelines and milestones. By choosing to collaborate with me, you can rest assured that you will save valuable time and resources while achieving remarkable outcomes.
-  
   
 
 <br/>  
