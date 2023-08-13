@@ -1,5 +1,5 @@
-- [Hey 👋, I'm @seniorcoder72!](#hey--im-seniorcoder72)
-  - [Glad to see you here!](#glad-to-see-you-here)
+- [@seniorcoder72, Welcome!](#seniorcoder72-welcome)
+  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
 - [📊 GitHub Stats:](#-github-stats)
@@ -10,7 +10,7 @@
 - [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
 
 
-# Hey 👋, I'm @seniorcoder72!  
+# @seniorcoder72, Welcome!
   
 
 <a href="https://github.com/seniorcoder72" target="_blank">
@@ -20,7 +20,7 @@
 
 
 
-## Glad to see you here!  
+## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
