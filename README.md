@@ -1,4 +1,16 @@
-## Hey 👋, I'm @seniorcoder72!  
+- [Hey 👋, I'm @seniorcoder72!](#hey--im-seniorcoder72)
+  - [Glad to see you here!](#glad-to-see-you-here)
+  - [Rapidfire](#rapidfire)
+  - [Languages and Tools](#languages-and-tools)
+- [📊 GitHub Stats:](#-github-stats)
+  - [🏆 GitHub Trophies](#-github-trophies)
+    - [✍️ Random Dev Quote](#️-random-dev-quote)
+    - [🔝 Top Contributed Repo](#-top-contributed-repo)
+    - [😂 Random Dev Meme](#-random-dev-meme)
+- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+
+
+# Hey 👋, I'm @seniorcoder72!  
   
 
 <a href="https://github.com/seniorcoder72" target="_blank">
@@ -8,7 +20,7 @@
 
 
 
-### Glad to see you here!  
+## Glad to see you here!  
 ✨ I want to build strong relationships with my clients.
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
@@ -32,7 +44,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/seniorcoder72)  
+- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/seniorcoder72)  
   
 
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
@@ -140,7 +152,7 @@
 <br/>  
   
 
-## Do you want to see my past work?
+# Do you want to see my past work?
 
 ![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)
 ![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)
