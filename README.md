@@ -16,6 +16,8 @@
     </td>
     <td>    
       <img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/>
+      https://trademarktoday-nextjs.vercel.app
+      https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
   </tr>
 </table>
