@@ -15,7 +15,8 @@
 
     </td>
     <td>    
-      ![Trademarktoday](https://avatars.githubusercontent.com/u/132613676?v=4)
+      ![Trademarktoday]()
+      <img src="https://avatars.githubusercontent.com/u/132613676?v=4" />
     </td>
   </tr>
 </table>
