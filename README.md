@@ -7,7 +7,7 @@
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
 - [📊 GitHub Stats:](#-github-stats)
-  - [🏆 GitHub Trophies](#-github-trophies)
+    - [🏆 GitHub Trophies](#-github-trophies)
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
@@ -147,7 +147,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
