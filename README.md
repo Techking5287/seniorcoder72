@@ -15,7 +15,7 @@
 
     </td>
     <td>    
-      <img src="https://avatars.githubusercontent.com/u/132613676?v=4"/>
+      <img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/>
     </td>
   </tr>
 </table>
