@@ -15,7 +15,6 @@
 
     </td>
     <td>    
-      ![Trademarktoday]()
       <img src="https://avatars.githubusercontent.com/u/132613676?v=4" style="border-radius: 50%;" />
     </td>
   </tr>
