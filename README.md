@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td>
+      
 - [@seniorcoder72, Welcome!](#seniorcoder72-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
@@ -8,6 +12,11 @@
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
 - [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+
+    </td>
+    <td>abc</td>
+  </tr>
+</table>
 
 
 # @seniorcoder72, Welcome!
