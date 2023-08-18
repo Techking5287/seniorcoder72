@@ -1,3 +1,4 @@
+https://seniorcoder72.github.io/
 <table>
   <tr>
     <td>
@@ -15,7 +16,7 @@
 
     </td>
     <td>    
-      <img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/>
+      <img src="https://seniorcoder72.github.io/"/>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
