@@ -16,7 +16,7 @@ https://seniorcoder72.github.io/
 
     </td>
     <td>    
-      <img src="https://seniorcoder72.github.io/"/>
+      <a href="https://seniorcoder72.github.io"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
