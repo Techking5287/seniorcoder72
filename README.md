@@ -164,7 +164,8 @@ https://seniorcoder72.github.io/
 
 
 <br/>  
-  
+![Untitled]()
+
 
 # Do you want to see my past work?
 <a href="https://trademarktoday-nextjs.vercel.app" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
@@ -173,5 +174,9 @@ https://seniorcoder72.github.io/
 <a href="https://trademarktoday-nextjs-rbxk.vercel.app" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
-
+<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://github.com/seniorcoder72/seniorcoder72/assets/132613676/621bc937-a2a7-461c-aa42-e59d0a60839f)</a>
+<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://github.com/seniorcoder72/seniorcoder72/assets/132613676/89363f4b-19b1-484d-b597-961bcc14efdf)</a>
+<a href="https://github.com/seniorcoder72/dynamic-post-nextjs" target="_blank">![DynamicPostNextJs](https://user-images.githubusercontent.com/132613676/260521935-fb82809d-2a4d-4d7c-92cb-ae338b260544.png?raw=true)</a>
+<a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
+<a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
 
