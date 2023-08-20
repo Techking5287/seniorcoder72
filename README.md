@@ -164,8 +164,6 @@ https://seniorcoder72.github.io/
 
 
 <br/>  
-![Untitled]()
-
 
 # Do you want to see my past work?
 <a href="https://trademarktoday-nextjs.vercel.app" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/01.png?raw=true)</a>
