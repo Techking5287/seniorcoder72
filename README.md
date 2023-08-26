@@ -1,4 +1,7 @@
 Please visit https://seniorcoder72.github.io/
+
+![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
+
 <table>
   <tr>
     <td>
